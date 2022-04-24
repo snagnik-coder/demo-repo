@@ -7,3 +7,5 @@ Some description here
 How u doin?
 
 ### Local development
+
+1. Open index.html in your browser
